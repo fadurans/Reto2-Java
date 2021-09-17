@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Empleado
+comment0.text=\r\n\ Reto\ Java,\ Semana\ 2.\r\n\ \r\n\ @Angela\ Dur\u00E1n\ \r\n\ @version\ (julio\ 14)\r\n
+comment1.params=Nombre\ Id\ Email\ T_antig\ Area\ Jefe
+comment1.target=Empleado(java.lang.String,\ java.lang.Integer,\ java.lang.String,\ double,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Empleado\r\n
+comment2.params=
+comment2.target=java.lang.String\ getInfo()
+numComments=3
